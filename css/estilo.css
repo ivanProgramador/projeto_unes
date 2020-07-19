@@ -1,0 +1,39 @@
+p{
+
+	text-align: justify;
+	 color: #6d78a8;
+
+}
+
+h1,h2,h4,a,ol,li{
+	 color: #6d78a8;
+}
+
+input,textarea{
+
+	border-radius: 7px ;
+	width: 25%;
+	
+}
+
+input{
+
+	color:#6d78a8;
+}
+
+form{
+
+	border:1px solid black;
+	border-radius: 7px;
+    color: #6d78a8;
+	
+}
+
+label{
+	font-family: "Goudy Bookletter 1911", sans-serif;
+}
+
+hr{
+	color: #6d78a8;
+}
+
